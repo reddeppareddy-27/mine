@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.L2YmD4uEfwYt1t2/giphy.gif" width="100%" alt="Developer animation banner">
-  <br>
   <h1>Hi there, I'm ReddeppaReddy 👋</h1>
   <h3><img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlLA/giphy.gif" width="30" height="30" style="vertical-align: middle;"> A passionate frontend developer from India <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlLA/giphy.gif" width="30" height="30" style="vertical-align: middle;"></h3>
   <br>
